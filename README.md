@@ -23,7 +23,7 @@ Quando implementei a paginação [no meu projeto](https://github.com/malufell/me
 
 1. No terminal, clonar o projeto: `git clone `
 
-2. Entrar na pasta do projeto: `cd autenticacao-com-passport-express-session`
+2. Entrar na pasta do projeto: `cd paginacao`
 
 3. Instalar as dependências: `npm install`
 
