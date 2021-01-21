@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-const Cards = require('../paginacao-com-JS-sequelize/controller/cards-controller.js');
+const Cards = require('../paginacao-com-sequelize/controller/cards-controller.js');
 
 
 const path = require('path')
