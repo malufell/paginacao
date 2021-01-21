@@ -4,8 +4,6 @@ Utilizando nodeJS, sequelize, postgres, EJS e bootstrap!
 
 Quando implementei a paginação [no meu projeto](https://github.com/malufell/meu-caderno-de-receitas) precisei investir um tempo além do esperado para resolver algumas questões que surgiram no caminho. Por isso criei este respositório com um exemplo de paginação em tabelas com relacionamento many-to-many e compartilho meus registros sobre o assunto.
 
-[Veja aqui o resultado].
-
 **Conteúdo:**
 - [Começando pelo resultado final](#começando-pelo-resultado-final)
 - [Como rodar a aplicação](#como-rodar-a-aplicação)
@@ -502,7 +500,7 @@ Assuntos relacionados:
 
 ---
 
-Este é o resultado, pode ser melhor visualizado [aqui](incluir link).
+Este é o resultado:
 
 ![Untitled_ Jan 21, 2021 11_45 AM](https://user-images.githubusercontent.com/62160705/105366624-4dbc8580-5bde-11eb-98ca-f7ac30b8be5f.gif)
 
