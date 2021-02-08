@@ -21,7 +21,7 @@ Quando implementei a paginação [no meu projeto](https://github.com/malufell/me
 
 ## Como rodar a aplicação
 
-1. No terminal, clonar o projeto: `git clone `
+1. No terminal, clonar o projeto: `git clone https://github.com/malufell/paginacao.git`
 
 2. Entrar na pasta do projeto: `cd paginacao`
 
